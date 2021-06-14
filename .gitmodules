@@ -2,3 +2,8 @@
 	path = WithHookahOrg/odoo-15
 	url = git@github.com:WithHookahOrg/odoo-15.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/brand"]
+	path = WithHookahOrg/brand
+	url = git@github.com:WithHookahOrg/brand.git
+	branch = 14.0
