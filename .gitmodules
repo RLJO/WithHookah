@@ -37,3 +37,8 @@
 	path = WithHookahOrg/sale-workflow
 	url = git@github.com:WithHookahOrg/sale-workflow.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/web"]
+	path = WithHookahOrg/web
+	url = git@github.com:WithHookahOrg/web.git
+	branch = 14.0
