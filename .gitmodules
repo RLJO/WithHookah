@@ -7,3 +7,8 @@
 	path = WithHookahOrg/brand
 	url = git@github.com:WithHookahOrg/brand.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/helpdesk"]
+	path = WithHookahOrg/helpdesk
+	url = git@github.com:WithHookahOrg/helpdesk.git
+	branch = 14.0
