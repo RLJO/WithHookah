@@ -27,3 +27,8 @@
 	path = WithHookahOrg/product-attribute
 	url = git@github.com:WithHookahOrg/product-attribute.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/product-variant"]
+	path = WithHookahOrg/product-variant
+	url = git@github.com:WithHookahOrg/product-variant.git
+	branch = 14.0
