@@ -82,3 +82,8 @@
 	path = WithHookahOrg/smartarget_odoo
 	url = git@github.com:WithHookahOrg/smartarget_odoo.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/SMC"]
+	path = WithHookahOrg/SMC
+	url = git@github.com:WithHookahOrg/SMC.git
+	branch = 14.0
