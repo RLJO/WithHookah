@@ -62,3 +62,8 @@
 	path = WithHookahOrg/arlon-elearning
 	url = git@github.com:WithHookahOrg/arlon-elearning.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/query_deluxe"]
+	path = WithHookahOrg/query_deluxe
+	url = git@github.com:WithHookahOrg/query_deluxe.git
+	branch = 14.0
