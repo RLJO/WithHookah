@@ -67,3 +67,8 @@
 	path = WithHookahOrg/query_deluxe
 	url = git@github.com:WithHookahOrg/query_deluxe.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/management-system"]
+	path = WithHookahOrg/management-system
+	url = git@github.com:WithHookahOrg/management-system.git
+	branch = 14.0
