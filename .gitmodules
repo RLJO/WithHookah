@@ -57,3 +57,8 @@
 	path = WithHookahOrg/website-addons
 	url = git@github.com:WithHookahOrg/website-addons.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/arlon-elearning"]
+	path = WithHookahOrg/arlon-elearning
+	url = git@github.com:WithHookahOrg/arlon-elearning.git
+	branch = 14.0
