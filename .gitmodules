@@ -22,3 +22,8 @@
 	path = WithHookahOrg/partner-contact
 	url = git@github.com:WithHookahOrg/partner-contact.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/product-attribute"]
+	path = WithHookahOrg/product-attribute
+	url = git@github.com:WithHookahOrg/product-attribute.git
+	branch = 14.0
