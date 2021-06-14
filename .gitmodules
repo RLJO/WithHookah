@@ -52,3 +52,8 @@
 	path = WithHookahOrg/odoo-addons
 	url = git@github.com:WithHookahOrg/odoo-addons.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/website-addons"]
+	path = WithHookahOrg/website-addons
+	url = git@github.com:WithHookahOrg/website-addons.git
+	branch = 14.0
