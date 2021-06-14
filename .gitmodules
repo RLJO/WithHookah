@@ -17,3 +17,8 @@
 	path = WithHookahOrg/mis-builder
 	url = git@github.com:WithHookahOrg/mis-builder.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/partner-contact"]
+	path = WithHookahOrg/partner-contact
+	url = git@github.com:WithHookahOrg/partner-contact.git
+	branch = 14.0
