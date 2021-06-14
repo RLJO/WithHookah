@@ -42,3 +42,8 @@
 	path = WithHookahOrg/web
 	url = git@github.com:WithHookahOrg/web.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/website"]
+	path = WithHookahOrg/website
+	url = git@github.com:WithHookahOrg/website.git
+	branch = 14.0
