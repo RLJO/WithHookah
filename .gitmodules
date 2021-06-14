@@ -72,3 +72,8 @@
 	path = WithHookahOrg/management-system
 	url = git@github.com:WithHookahOrg/management-system.git
 	branch = 14.0
+
+[submodule "WithHookahOrg/dn_api_14"]
+	path = WithHookahOrg/dn_api_14
+	url = git@github.com:WithHookahOrg/dn_api_14.git
+	branch = 14.0
